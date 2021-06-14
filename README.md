@@ -7,16 +7,21 @@
 
 - 🌱 I’m currently learning **Blazor, Flutter**
 
+- 👨‍💻 All of my projects are available at [https://www.dev-bucket.com](https://www.dev-bucket.com)
+
 - 📝 I regularly write articles on [https://blogs.dev-bucket.com](https://blogs.dev-bucket.com)
 
-- 📫 How to reach me **itpro-pramod@gmail.com**
+- 💬 Ask me about **C#, dotnet core, mvc, react, api,Azure**
 
-- 📄 Know about my experiences [https://a2dms.blob.core.windows.net/personal/Pramod_Jadhav_CV_Exp_9_Years.pdf](https://a2dms.blob.core.windows.net/personal/Pramod_Jadhav_CV_Exp_9_Years.pdf)
+- 📫 How to reach me **itpro.pramod@gmail.com**
+
+- 📄 Know about my experiences [https://www.dev-bucket.com/itpro-pramod.pdf](https://www.dev-bucket.com/itpro-pramod.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itpropramod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itpropramod" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itpro-pramod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itpro-pramod" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14109761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14109761" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
