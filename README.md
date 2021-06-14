@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **itpro.pramod@gmail.com**
 
-- 📄 Know about my experiences [https://www.dev-bucket.com/itpro-pramod.pdf](https://www.dev-bucket.com/pdffiles/itpro-pramod.pdf)
+- 📄 Know about my experiences [https://www.dev-bucket.com/pdffiles/itpro-pramod.pdf](https://www.dev-bucket.com/pdffiles/itpro-pramod.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
