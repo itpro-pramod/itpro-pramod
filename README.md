@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Blazor, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.dev-bucket.com](https://www.dev-bucket.com)
+- 👨‍💻 All of my projects are available at [https://www.dotnetuniversity.in](https://www.dotnetuniversity.in)
 
-- 📝 I regularly write articles on [https://blogs.dev-bucket.com](https://blogs.dev-bucket.com)
+- 📝 I regularly write articles on [https://www.dotnetuniversity.in/blogs](https://www.dotnetuniversity.in/blogs)
 
 - 💬 Ask me about **C#, dotnet core, mvc, react, api,Azure**
 
